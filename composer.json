@@ -13,7 +13,8 @@
         "bshaffer/oauth2-server-php": "^1.11",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.8.*",
-        "laravel/tinker": "^1.0"
+        "laravel/tinker": "^1.0",
+        "ramsey/uuid": "^3.9"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
